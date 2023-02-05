@@ -131,22 +131,22 @@
     .line 11
     sput-object v0, Lcom/example/teardroidv2/AppInfo;->devHostName:Ljava/lang/String;
 
-    const-string v0, "https://4lw9cp.deta.dev"
+    const-string v0, "https://v4kz3j.deta.dev"
 
     .line 12
     sput-object v0, Lcom/example/teardroidv2/AppInfo;->HOSTNAME:Ljava/lang/String;
 
-    const-string v0, "Hello"
+    const-string v0, "SamoLevski"
 
     .line 13
     sput-object v0, Lcom/example/teardroidv2/AppInfo;->NotificationTitle:Ljava/lang/String;
 
-    const-string v0, "World"
+    const-string v0, "Contentv4"
 
     .line 14
     sput-object v0, Lcom/example/teardroidv2/AppInfo;->NotificationContent:Ljava/lang/String;
 
-    const-string v0, "LOLWORLD"
+    const-string v0, "SubTextv4"
 
     .line 15
     sput-object v0, Lcom/example/teardroidv2/AppInfo;->NotificationSubText:Ljava/lang/String;
